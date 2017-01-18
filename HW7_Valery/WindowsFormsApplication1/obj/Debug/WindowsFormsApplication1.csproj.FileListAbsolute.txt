@@ -1,0 +1,9 @@
+D:\Valery\GeekBrains\Lesson 7\HW6_Valery\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Valery\GeekBrains\Lesson 7\HW6_Valery\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Valery\GeekBrains\Lesson 7\HW6_Valery\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Valery\GeekBrains\Lesson 7\HW6_Valery\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Valery\GeekBrains\Lesson 7\HW6_Valery\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Valery\GeekBrains\Lesson 7\HW6_Valery\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Valery\GeekBrains\Lesson 7\HW6_Valery\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Valery\GeekBrains\Lesson 7\HW6_Valery\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Valery\GeekBrains\Lesson 7\HW6_Valery\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
